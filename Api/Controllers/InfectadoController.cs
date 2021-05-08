@@ -1,7 +1,7 @@
 ﻿using Api.Data.Collections;
 using Api.Models;
 using Microsoft.AspNetCore.Mvc;
-using Api.Data.MongoDB.Driver;
+using MongoDB.Driver;
 
 namespace Api.Controllers
 {
